@@ -1,2 +1,7 @@
 /.DS_Store
 /backend.zip
+
+backend/logs/*
+*__pycache__
+*.pytest_cache
+*.flake8
