@@ -1,0 +1,47 @@
+2026-02-07 13:09:39 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path?query=param'))}
+2026-02-07 13:11:59 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path?query=param'))}
+2026-02-07 13:15:27 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path?query=param'))}
+2026-02-07 13:16:20 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path?query=param'))}
+2026-02-07 13:16:43 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path?query=param'))}
+2026-02-07 13:17:19 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path?query=param'))}
+2026-02-07 13:18:42 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path?query=param'))}
+2026-02-07 13:19:54 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path?query=param'))}
+2026-02-07 13:20:27 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path?query=param'))}
+2026-02-07 13:20:32 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path?query=param'))}
+2026-02-07 13:20:52 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path?query=param'))}
+2026-02-07 13:21:19 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long1/path?query=param'))}
+2026-02-07 13:32:00 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path?query=param'))}
+2026-02-07 13:32:33 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path?query=param'))}
+2026-02-07 13:35:18 | INFO    | network | log_manager | NETWORK_INFO|/SZFaET| MESSAGE: Просмотр статистики ссылки| DATA: {'short_code': 'SZFaET', 'clicks': 1}
+2026-02-07 13:36:02 | INFO    | network | log_manager | NETWORK_INFO|/SZFaET| MESSAGE: Просмотр статистики ссылки| DATA: {'short_code': 'SZFaET', 'clicks': 2}
+2026-02-07 13:40:49 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path'))}
+2026-02-07 13:40:49 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://test.com/'))}
+2026-02-07 13:40:49 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://counter.test/'))}
+2026-02-07 13:41:21 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path'))}
+2026-02-07 13:41:21 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://test.com/'))}
+2026-02-07 13:41:21 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://counter.test/'))}
+2026-02-07 13:41:36 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path'))}
+2026-02-07 13:41:36 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://test.com/'))}
+2026-02-07 13:41:36 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://counter.test/'))}
+2026-02-07 13:42:02 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path'))}
+2026-02-07 13:42:02 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://test.com/'))}
+2026-02-07 13:42:02 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://counter.test/'))}
+2026-02-07 13:42:29 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path'))}
+2026-02-07 13:42:29 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://test.com/'))}
+2026-02-07 13:42:29 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://counter.test/'))}
+2026-02-07 13:43:05 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path'))}
+2026-02-07 13:43:05 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://test.com/'))}
+2026-02-07 13:43:05 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://counter.test/'))}
+2026-02-07 13:43:31 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path'))}
+2026-02-07 13:43:31 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://test.com/'))}
+2026-02-07 13:43:31 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://counter.test/'))}
+2026-02-07 13:43:31 | INFO    | network | log_manager | NETWORK_INFO|/AhmIHkD| MESSAGE: Просмотр статистики ссылки| DATA: {'short_code': 'AhmIHkD', 'clicks': 7}
+2026-02-07 13:43:31 | INFO    | network | log_manager | NETWORK_INFO|/AhmIHkD| MESSAGE: Просмотр статистики ссылки| DATA: {'short_code': 'AhmIHkD', 'clicks': 8}
+2026-02-07 13:43:31 | INFO    | network | log_manager | NETWORK_INFO|/AhmIHkD| MESSAGE: Просмотр статистики ссылки| DATA: {'short_code': 'AhmIHkD', 'clicks': 9}
+2026-02-07 13:44:08 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://example.com/very/long/path'))}
+2026-02-07 13:44:08 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://test.com/'))}
+2026-02-07 13:44:08 | INFO    | network | log_manager | NETWORK_INFO|/GLiTP3| MESSAGE: Просмотр статистики ссылки| DATA: {'short_code': 'GLiTP3', 'clicks': 8}
+2026-02-07 13:44:08 | INFO    | network | log_manager | NETWORK_INFO|/shorten| MESSAGE: Полученн запрос на сокращение| DATA: {'payload': ShortenRequest(url=HttpUrl('https://counter.test/'))}
+2026-02-07 13:44:08 | INFO    | network | log_manager | NETWORK_INFO|/AhmIHkD| MESSAGE: Просмотр статистики ссылки| DATA: {'short_code': 'AhmIHkD', 'clicks': 11}
+2026-02-07 13:44:08 | INFO    | network | log_manager | NETWORK_INFO|/AhmIHkD| MESSAGE: Просмотр статистики ссылки| DATA: {'short_code': 'AhmIHkD', 'clicks': 12}
+2026-02-07 13:44:08 | INFO    | network | log_manager | NETWORK_INFO|/AhmIHkD| MESSAGE: Просмотр статистики ссылки| DATA: {'short_code': 'AhmIHkD', 'clicks': 13}
